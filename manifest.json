@@ -4,7 +4,7 @@
   "icons": { "48": "icon48.png" },
   "manifest_version": 2,
   "description": "Fix all TeamCity failed builds with just one click!",
-  "homepage_url": "http://github.com/misomarcell",
+  "homepage_url": "https://github.com/misomarcell/teamcity-fixer-chrome-extension/",
   "background": {
     "scripts": [
       "background.js"
