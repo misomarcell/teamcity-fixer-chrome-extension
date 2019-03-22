@@ -7,7 +7,7 @@
 4) Browse this folder
 
 ## Usage
-1) Open you TeamCity Dashboard
+1) Open your TeamCity Dashboard
 2) Click on the TC Fixer icon
 3) All your builds are fixed!
 4) You're welcome
