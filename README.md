@@ -9,3 +9,5 @@
 2) Click on the TC Fixer icon
 3) All your builds are fixed!
 4) You're welcome
+
+![TeamCity Fixer](https://i.imgur.com/8Hku6Bf.png)
